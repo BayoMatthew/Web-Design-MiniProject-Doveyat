@@ -1,0 +1,35 @@
+#header{
+    /* height: 500px; */
+    background-image: url(../img/slide21.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center center;
+    padding-top: 168px;
+    padding-bottom: 96px;
+}
+.logo{
+    /* margin-left: 60px; */
+    height: 40px;
+    width: 40px;
+}
+.topic{
+    text-align: center;
+    color: white;
+}
+
+h1{
+    font-size:50px;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;  
+}
+
+#footer{
+    background-color: black;
+    height: 100px;
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
